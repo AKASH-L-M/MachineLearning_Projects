@@ -1,5 +1,5 @@
-# MachineLearning_Projects
-Contains 1 Major Project
+# MachineLearning_Minor_Project
+Contains 1 Minor Project
 <br>
 Minor Project: Classification model for Gender analysis<br>
 ![1](https://user-images.githubusercontent.com/91725049/162547324-617b4850-e4d0-40d1-b4b3-99757820ceaa.jpg)
