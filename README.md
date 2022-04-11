@@ -1,8 +1,7 @@
 # MachineLearning_Projects
-Contains 1 Minor and 1 Major Project
+Contains 1 Major Project
 <br>
 Minor Project: Classification model for Gender analysis<br>
-Major Project: Classification Model to predict Salary of a person
 ![1](https://user-images.githubusercontent.com/91725049/162547324-617b4850-e4d0-40d1-b4b3-99757820ceaa.jpg)
 
 ![2](https://user-images.githubusercontent.com/91725049/162546668-9da77340-e5b1-4ec5-9040-8a2af58086c5.jpg)
