@@ -18,7 +18,7 @@ Major Project: Classification Model to predict Salary of a person<br>
 ![46](https://user-images.githubusercontent.com/91725049/162546774-a13b62f7-df6e-487b-91f7-ed38ae9080b5.jpg)
 ![47](https://user-images.githubusercontent.com/91725049/162546783-192a84e4-680d-4ce7-9825-9a3fe064143c.jpg)
 ![last](https://user-images.githubusercontent.com/91725049/162546786-09d408e4-4424-4168-984e-4c786c87371d.jpg)
-<br>##Minor Project ScreenShots<br>
+<br>## Minor Project ScreenShots<br>
 
 ![Major1](https://user-images.githubusercontent.com/91725049/162751199-eb28b56a-3a71-4767-b8ae-23b4a674b0e3.jpg)
 ![Major2](https://user-images.githubusercontent.com/91725049/162751235-6642b17c-fd85-4d5a-8d1e-e9d3393d44b3.jpg)
@@ -46,7 +46,7 @@ Major Project: Classification Model to predict Salary of a person<br>
 ![Major491](https://user-images.githubusercontent.com/91725049/162751664-67117d5b-aa4c-49d8-aa61-81f40a0a4d89.jpg)
 ![Major492](https://user-images.githubusercontent.com/91725049/162751666-5237d207-4e09-47b5-ad2c-1192dad71f7f.jpg)
 ![MajorResult](https://user-images.githubusercontent.com/91725049/162751668-52314de5-1757-48c5-987c-901aa325e8b9.jpg)
-/162751502-8422ef82-c4b2-44a5-8860-6f67c1f626de.jpg)
+
 
 
 
