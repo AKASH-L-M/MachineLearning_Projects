@@ -4,7 +4,8 @@ Contains 1 Minor Project and 1 Major project
 Minor Project: Classification model for Gender analysis<br>
 Major Project: Classification Model to predict Salary of a person<br>
 
-##Minor Project ScreenShots<br>
+## Minor Project ScreenShots
+ <br>
 ![1](https://user-images.githubusercontent.com/91725049/162547324-617b4850-e4d0-40d1-b4b3-99757820ceaa.jpg)
 ![2](https://user-images.githubusercontent.com/91725049/162546668-9da77340-e5b1-4ec5-9040-8a2af58086c5.jpg)
 ![3](https://user-images.githubusercontent.com/91725049/162546736-84b090b4-6253-4b16-8e6b-bc33867d175f.jpg)
@@ -18,7 +19,9 @@ Major Project: Classification Model to predict Salary of a person<br>
 ![46](https://user-images.githubusercontent.com/91725049/162546774-a13b62f7-df6e-487b-91f7-ed38ae9080b5.jpg)
 ![47](https://user-images.githubusercontent.com/91725049/162546783-192a84e4-680d-4ce7-9825-9a3fe064143c.jpg)
 ![last](https://user-images.githubusercontent.com/91725049/162546786-09d408e4-4424-4168-984e-4c786c87371d.jpg)
-<br>## Minor Project ScreenShots<br>
+<br>
+## Major Project ScreenShots
+<br>
 
 ![Major1](https://user-images.githubusercontent.com/91725049/162751199-eb28b56a-3a71-4767-b8ae-23b4a674b0e3.jpg)
 ![Major2](https://user-images.githubusercontent.com/91725049/162751235-6642b17c-fd85-4d5a-8d1e-e9d3393d44b3.jpg)
