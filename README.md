@@ -39,7 +39,8 @@ Major Project: Classification Model to predict Salary of a person<br>
 
 ![Major12](https://user-images.githubusercontent.com/91725049/162751446-1d7ac306-50fc-41d6-b859-efe2c880dcfc.jpg)
 ![Major13_](https://user-images.githubusercontent.com/91725049/162751460-91f8b7fb-c53e-4819-b454-2731eb025b1d.jpg)
-![MajorSplit](https://user-images.githubusercontent.com/91725049![Major41](https://user-images.githubusercontent.com/91725049/162751597-5a020ad7-8ea6-4f39-95a0-4df3db552e2a.jpg)
+![MajorSplit](https://user-images.githubusercontent.com/91725049/162752637-6f655cd7-6063-43ac-909a-5e422dccbf34.jpg)
+
 ![Major42](https://user-images.githubusercontent.com/91725049/162751609-b202696b-0462-461e-a5cc-db39e454cf4f.jpg)
 ![Major43](https://user-images.githubusercontent.com/91725049/162751616-b55902c5-86e7-42d3-9328-82c7336c22dc.jpg)
 ![Major44](https://user-images.githubusercontent.com/91725049/162751625-31f516a7-3c1b-4878-b6fa-7037ed0cfd06.jpg)
