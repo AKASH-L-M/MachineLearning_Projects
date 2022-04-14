@@ -1,5 +1,6 @@
 # MachineLearning_Projects
 Contains 1 Minor Project and 1 Major project
+<br>[![](https://visitcount.itsvg.in/api?id=MachineLearningInternship&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <br>
 Minor Project: Classification model for Gender analysis<br>
 Major Project: Classification Model to predict Salary of a person<br>
